@@ -1,4 +1,4 @@
 <p>No relationship results</p>
-<img src="https://imgur.com/HMTa8fz" alt="sample 1, no relationship">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/UZXIatq" data-context="false" ><a href="//imgur.com/a/UZXIatq">Sample 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <p>Moderate relationship results</p>
-<img src="https://imgur.com/a/PD5iHxA" alt="sample 2, moderate relationship">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/PD5iHxA" data-context="false" ><a href="//imgur.com/a/PD5iHxA">Sample 2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
